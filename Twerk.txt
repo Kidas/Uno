@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-This file does not exist. This change doesn't exist in Slave.
-=======
-This file does not exist.
->>>>>>> slave
+
+
+
+Some stuff here in master.
